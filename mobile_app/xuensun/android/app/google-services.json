@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19458226146",
+    "project_id": "xuensun-9596126",
+    "storage_bucket": "xuensun-9596126.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19458226146:android:f8c877211656a9b2adebbb",
+        "android_client_info": {
+          "package_name": "com.xuensun.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVb-uc6DO7yIdKeD-gax82OrjbTSIoldM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
